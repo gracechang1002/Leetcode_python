@@ -10,6 +10,11 @@
 66. Plus One - https://leetcode.com/problems/plus-one/<br>
 67. Add Binary - https://leetcode.com/problems/add-binary/<br>
 69. Sqrt(x) - https://leetcode.com/problems/sqrtx/<br>
+88. Merge Sorted Array - https://leetcode.com/problems/merge-sorted-array/<br>
+118. Pascal's Triangle - https://leetcode.com/problems/pascals-triangle/<br>
+119. Pascal's Triangle II - https://leetcode.com/problems/pascals-triangle-ii/<br>
+136. Single Number - https://leetcode.com/problems/single-number/<br>
+
 1108. Defanging an IP Address - https://leetcode.com/problems/defanging-an-ip-address/<br>
 1122. Relative Sort Array - https://leetcode.com/problems/relative-sort-array/<br>
 1207. Unique Number of Occurrences - https://leetcode.com/problems/unique-number-of-occurrences/<br>
