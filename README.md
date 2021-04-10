@@ -1,8 +1,8 @@
 ## Leetcode 習題練習(整理中)
 ### Easy
-1\.Two Sum - https://leetcode.com/problems/two-sum/<br>
-7\.Reverse Integer - https://leetcode.com/problems/reverse-integer/<br>
-9\.Palindrome Number - https://leetcode.com/problems/palindrome-number/<br>
+1.Two Sum - https://leetcode.com/problems/two-sum/<br>
+7.Reverse Integer - https://leetcode.com/problems/reverse-integer/<br>
+9.Palindrome Number - https://leetcode.com/problems/palindrome-number/<br>
 35.Search Insert Position - https://leetcode.com/problems/search-insert-position/<br>
 48.Rotate Image - https://leetcode.com/problems/rotate-image/
 50.Pow(x, n) - https://leetcode.com/problems/powx-n/<br>
@@ -16,6 +16,7 @@
 136.Single Number - https://leetcode.com/problems/single-number/<br>
 1108.Defanging an IP Address - https://leetcode.com/problems/defanging-an-ip-address/<br>
 1122.Relative Sort Array - https://leetcode.com/problems/relative-sort-array/<br>
+1137. N-th Tribonacci Number - https://leetcode.com/problems/n-th-tribonacci-number/<br>
 1207.Unique Number of Occurrences - https://leetcode.com/problems/unique-number-of-occurrences/<br>
 1266.Minimum Time Visiting All Points - https://leetcode.com/problems/minimum-time-visiting-all-points/<br>
 1281.Subtract the Product and Sum of Digits of an Integer - https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/<br>
