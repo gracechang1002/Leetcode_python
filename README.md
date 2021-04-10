@@ -1,8 +1,8 @@
 ## Leetcode 習題練習(整理中)
 ### Easy
-1.Two Sum - https://leetcode.com/problems/two-sum/<br>
-7.Reverse Integer - https://leetcode.com/problems/reverse-integer/<br>
-9.Palindrome Number - https://leetcode.com/problems/palindrome-number/<br>
+1\.Two Sum - https://leetcode.com/problems/two-sum/<br>
+7\.Reverse Integer - https://leetcode.com/problems/reverse-integer/<br>
+9\.Palindrome Number - https://leetcode.com/problems/palindrome-number/<br>
 35.Search Insert Position - https://leetcode.com/problems/search-insert-position/<br>
 48.Rotate Image - https://leetcode.com/problems/rotate-image/
 50.Pow(x, n) - https://leetcode.com/problems/powx-n/<br>
